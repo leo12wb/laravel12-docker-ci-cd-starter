@@ -42,6 +42,7 @@ A clean and reusable starter project for modern Laravel applications with Docker
 ├── .dockerignore
 └── README.md
 
+```
 
 🐳 Running the Project with Docker
 1. Clone repository
